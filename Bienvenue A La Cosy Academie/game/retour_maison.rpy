@@ -8,7 +8,7 @@ label fin_journee:
     pov "Oh merci à toi !"
     met "J'ai cru comprendre que tu n'avais toujours pas trouvé de club ?"
     pov "Non... Ils sont un peu..."
-    met "Haha ne dit rien, je sais !"
+    met "Haha ne dis rien, je sais !"
     met "Il faut que tu apprennes à te défendre..."
     show Metalice PoseDroite Sourire
     met "Mais oui !" with hpunch
