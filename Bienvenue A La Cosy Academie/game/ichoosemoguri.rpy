@@ -72,7 +72,7 @@ label Ichoosemoguri:
 
     show Moguri BrasCroises Degoute
 
-    mog "À vrai dire ton comportement m'énerve un peu aussi, mais je ne peux pas y faire grand chose, le changement doit venir de toi, pas des autres."
+    mog "À vrai dire ton comportement m'énerve un peu aussi, mais je ne peux pas y faire grand-chose, le changement doit venir de toi, pas des autres."
 
     if sex=="m":
         pov "D-désolé..."
@@ -93,13 +93,13 @@ label Ichoosemoguri:
 
     hide Moguri with dissolve
 
-    innerpov "Je ne peux pas le laisser partir... Pas maintenant."
+    innerpov "Je ne peux pas le laisser partir... pas maintenant."
 
     pov "MOGURI ! ATTENDS !!"
 
     show Moguri Standard Badboy with dissolve
 
-    pov "Je veux changer... Vraiment ! Mais je pense qu'il va me falloir de l'aide..."
+    pov "Je veux changer... vraiment ! Mais je pense qu'il va me falloir de l'aide..."
     pov "Et si possible, j'aimerais que la personne qui m'aide... ce soit toi."
 
     show Moguri Gene
