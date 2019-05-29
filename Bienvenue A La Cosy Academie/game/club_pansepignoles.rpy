@@ -65,7 +65,7 @@ label club_pansepignoles:
 
     chuen "NE PARLEZ PAS COMME ÇA DE DIEUVOMI, VOUS NE CONNAISSEZ PAS SON HISTOIRE !"
 
-    innerpov "Tiens ? Je ne les aurais pas pensé si proches..."
+    innerpov "Tiens ? Je ne les aurais pas pensés si proches..."
 
     chuen "ALLEZ VOUS ME FAITES TROIS TOURS DE TERRAIN ET PLUS VITE QUE ÇA !"
     show Cheerleaders at go_away
@@ -79,7 +79,7 @@ label club_pansepignoles:
 
     pov "Si tu le dis... Dis-moi, ça vient d'où ce nom du coup ?"
     show Chuenpodo PoseSpeciale Sourire 
-    chuen "Et bien en voilà une bonne question ! C'est en hommage à notre ancien manager Pansepignon... À l'époque j'étais moi même cheerleader !"
+    chuen "Et bien en voilà une bonne question ! C'est en hommage à notre ancien manager Pansepignon... À l'époque j'étais moi-même cheerleader !"
     show Chuenpodo PoseSpeciale Sourire Yeuxfermes
     chuen "C'était un étudiant à la Cosy Académie comme nous, mais il était génial." 
     show Chuenpodo PoseSpeciale Sourire Yeuxfermes Rougit
@@ -112,7 +112,7 @@ label club_pansepignoles:
 
     chuen "Tiens ! Les revoilà, attends, on va te montrer !"
     innerpov "Mais de quoi il parle..."
-    pov "Oui oui allez-y montrez moi !"
+    pov "Oui oui allez-y, montrez-moi !"
     chuen "Allez les gars ! En place !"
     show Cheerleaders at go_back_in_place
     pause 1.0
