@@ -23,7 +23,7 @@ label club_lock:
     met "Voilà, on y est..."
     pov "Mais, c'est une salle d'entraînement aux sports de combat ?"
     show Metalice Standard Cligne
-    met "Non! C'est une salle de bagarre !"
+    met "Non ! C'est une salle de bagarre !"
     show Metalice Standard Sourire
     met "En tant que responsable autoproclamé de la sécurité de l'établissement Lock y a ses habitudes..."
     pov "Ah ? Mais il n'y a personne."
@@ -36,7 +36,7 @@ label club_lock:
         name_lock="Lock"
     show Metalice Standard Colere Rougit at left
     show Lock PoseDroite Degoute at right with hpunch
-    lock "Je t'ai déjà demandé de ne pas m'appeler comme ça!"
+    lock "Je t'ai déjà demandé de ne pas m'appeler comme ça !"
     lock "Pour vous je suis Patrick DELTAFORCE... Grand maître justicier de la bagarre !"
     show Metalice Standard Degoute
     met "Moui..."
@@ -48,7 +48,7 @@ label club_lock:
     lock "Ah ! Vous venez pour l'épreuve ?!"
     pov "L'épreuve ? Je pensais qu'un classique formulaire d'inscription suffirait..."
     show Metalice PoseSpeciale Cligne Rougit 
-    met "Heu... Bon je vous laisse! Bonne chance [povname] !"
+    met "Heu... Bon je vous laisse ! Bonne chance [povname] !"
     hide Metalice with dissolve
     pov "..."
     
@@ -65,7 +65,7 @@ label club_lock:
     pov "Oui... Je crois..."
     show Lock Standard Triste
     lock "Première épreuve : La Question !"
-    lock "Cherche au plus profond de ton coeur et tu trouveras l'évidente réponse."
+    lock "Cherche au plus profond de ton cœur et tu trouveras l'évidente réponse."
     lock "Qui saura, mieux que quiconque, t'enseigner l'art de la bagarre ?"
     menu:
 
@@ -208,7 +208,7 @@ label club_lock:
     din "Ouais bah en attendant je dessine, et je décide qu'on n'est pas dans un shônen !"
     hide din
     show ZePilot PoseSpeciale Colere
-    zep "Ouais puis tous ces effets, vous croyez que ça ce fait comme ça tout seul !? J'envoie la facture à qui ??"   
+    zep "Ouais puis tous ces effets, vous croyez que ça se fait comme ça tout seul !? J'envoie la facture à qui ??"   
 
     scene gym_shonen
     
