@@ -82,7 +82,7 @@ label club_tech:
     innerpov "Mais comment il sait ça ?"
     pov "Euh... oui, merci, je ferai attention..."
     zep "Tu trouveras les photocopieuses des élèves au club ''Technologies et Créations Hétéroclites (T.E.C.H)''. "
-    zep "Profite-en pour rencontrer les membres du club, tu verras que l'Académie est à la pointe technologique : nous faisons tout en Ultra."
+    zep "Profites-en pour rencontrer les membres du club, tu verras que l'Académie est à la pointe technologique : nous faisons tout en Ultra."
     zep "Notre club regroupe toutes sortes de talents : développeurs, serpentistes, memeurs fascinateurs, et bien plus encore !"
     zep "Je les préviens de ta visite imminente."
 
@@ -183,7 +183,7 @@ label .Clubtechfoulk:
     show Foulk BrasCroises Triste
     foulk "Si tu croises un type de mauvais goût, à la cravate et aux chaussettes bleues, n'écoute pas ses indications : à part la droite, il ne connaît rien d'autre."
     show Foulk PoseSpeciale Sourire
-    foulk "Eh beh, appelez moi Joseph Gordon Levitt'riole aujourd'hui ! Il faut que je la note celle-là, elle est trop fraîche !"
+    foulk "Eh beh, appelez-moi Joseph Gordon Levitt'riole aujourd'hui ! Il faut que je la note celle-là, elle est trop fraîche !"
     pov "Ok ! Salut hein !"
     innerpov "Rho le lourd..."
 
@@ -356,7 +356,7 @@ label .ChooseCouloir(count_couloir = 0):
 
     elif count_couloir == 4:
         if last_choice == 0:
-            innerpov "Mais pourquoi ça sent le melon de Lectoure et le fois gras ?"
+            innerpov "Mais pourquoi ça sent le melon de Lectoure et le foie gras ?"
         else:
             innerpov "J'ai comme envie d'une croustade à la pomme vanillée..."
 
