@@ -122,7 +122,7 @@ label conseil_eleves:
     show Mickey PoseGauche Gene
     mic "Et il remet ça..."
     show Lock PoseGauche Sourire
-    lock "Le DELTA FORCE, le membre le plus actif en terme de sécurité de la Cosy Académie !"
+    lock "Le DELTA FORCE, le membre le plus actif en matière de sécurité de la Cosy Académie !"
     show Lock PoseGauche Badboy
     lock "Le fleuron de la justice nationale de la région, le défenseur de la veuve, de l'orphelin et du mignon !"
     show Metalice PoseDroite Degoute
@@ -166,7 +166,7 @@ label conseil_eleves:
     met "Tu as vu [povname], le conseil des élèves nécessite une main d'enfer, dans un gant dévolu."
     met "En plus de la rédaction des formulaires, leur diffusion, leur réception, ainsi que le maintien de l'ordre, ou la délation, nous aurions besoin de tes compétences."
 
-    lock "Concernant les délations, l'élève Von Yaourt a encore rempli la banette. Principalement pour des délits mineurs commis par, je cite : ''des personnes aux accents étrange(r)s''. Je donne suite ?"
+    lock "Concernant les délations, l'élève Von Yaourt a encore rempli la bannette. Principalement pour des délits mineurs commis par, je cite : ''des personnes aux accents étrange(r)s''. Je donne suite ?"
     met "Comme tu veux Lock, mais fais-le loin."
     met "Alors [povname], je t'inscris au conseil ?"
     menu:
