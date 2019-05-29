@@ -48,7 +48,7 @@ label verdict:
 
     innerpov "Tsss, si tu savais..."
 
-    pov "Ok, donc c'est officiel, je fais parti du Cosy Culture Club ?"
+    pov "Ok, donc c'est officiel, je fais partie du Cosy Culture Club ?"
     med "C'est officiel !"
     pov "J'y crois pas... La Cosy Academy... Le Cosy Culture Club..."
 
@@ -218,7 +218,7 @@ label verdict:
 
         show Medoc PoseSpeciale Sourire
 
-        med "Ne t'inquiète pas, il nous reste du temps à passer ensemble, tu peux compter là dessus."
+        med "Ne t'inquiète pas, il nous reste du temps à passer ensemble, tu peux compter là-dessus."
         pov "C'est une promesse ?"
         med "Un engagement, on ne peut plus solennel !"
         pov "Déjà ? Tu ne vas pas un peu vite en besogne ?"
@@ -566,7 +566,7 @@ label verdict:
         pov "Quoi ?"
 
         show Metalice BrasCroises Sourire
-        met "Je pensais que tu en viendrais à une conclusion un peu moins cliché, mais qui suis-je pour juger."
+        met "Je pensais que tu en viendrais à une conclusion un peu moins clichée, mais qui suis-je pour juger."
         pov "Pas Moguri, dans un premier temps..."
         show Metalice Standard Sourire Yeuxfermes
         met "Ahahahah !"
