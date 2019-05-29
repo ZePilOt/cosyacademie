@@ -35,7 +35,7 @@ label unAutreLendemainMatin:
     pov "Du coup c'est vrai cette histoire de bannissement de l'école par Von Yaourt ?"
     panse "Hein ? Nan, il aimait juste me taquiner. C'est un bon bougre ce Von !"
     show Pansepignon PoseGauche Sourire
-    panse "Tu sais, il y a un coeur qui bat sous cette carapace tricolore..."
+    panse "Tu sais, il y a un cœur qui bat sous cette carapace tricolore..."
 
     pov "Alors pourquoi tu ne viens plus en cours ?"
     show Pansepignon BrasCroises Cligne
