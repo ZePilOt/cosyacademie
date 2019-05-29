@@ -64,7 +64,7 @@ label cosy_culture_club:
     mog "Bah ouais mais en même temps on t'a écouté pour le club tech..."
     show Moguri PoseGauche Badboy
     show Medoc BrasCroises Badboy
-    med "Hé gars ! C'est toi qui l'a incité avec ton mod chépa quoi là !"
+    med "Hé gars ! C'est toi qui l'as incité avec ton mod chépa quoi là !"
     mog "J'ai rien demandé, j'ai juste dit que j'aimais les portes ! Regarde ce qui se passe comme bordel dans l'académie maintenant !" 
     show Medoc PoseDroite Badboy
     med "Le club tech, c'était pour lui faire plaisir. Puis il est seul dedans..."
