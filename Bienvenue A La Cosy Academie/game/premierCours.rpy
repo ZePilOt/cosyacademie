@@ -168,7 +168,7 @@ label Premiercours:
     show Metalice Standard Degoute
     met "Un pneu. Il a un souci avec ça je crois, il aime beaucoup les crever."
     show Metalice Standard Sourire
-    met "Il s'est débarassé d'un gang qui gangrenait la ville à lui tout seul d'ailleurs !"
+    met "Il s'est débarrassé d'un gang qui gangrenait la ville à lui tout seul d'ailleurs !"
     pov "Je t'avoue que je ne vois pas particulièrement le rapport..."
     show Metalice PoseSpeciale Cligne
     met "La spécificité de ce gang était que ses membres ne se déplaçaient qu'en BMX. Leur principale méthode d'agression était de rouler sur leurs victimes..."
