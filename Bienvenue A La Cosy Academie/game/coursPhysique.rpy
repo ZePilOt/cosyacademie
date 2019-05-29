@@ -6,14 +6,14 @@ label cours_physique:
     
 
     show Pansepignon PoseSpeciale Sourire with dissolve
-    pov "HEP TOI LA BAS !"   
+    pov "HEP TOI LÀ-BAS  !"   
     pov "Je te reconnais, je t'ai croisé à l'entrée je ne sais plus quand..."
     panse "Effectivement, tu as bonne mémoire !"
     pov "Tu es Pansepignon n'est-ce pas ?"
     show Pansepignon PoseSpeciale Gene
     panse "Oh... Je vois qu'on t'a déjà parlé de ce jeune génie incompris..."
     show Pansepignon PoseSpeciale Sourire Yeuxfermes
-    panse "Si dans ton coeur, c'est ce que tu ressens, alors oui. Je suis Pansepignon."
+    panse "Si dans ton cœur, c'est ce que tu ressens, alors oui. Je suis Pansepignon."
     innerpov "Ok... c'est complètement lui..."
     $ name_panse = "Pansepignon"
     panse "Mais tu sais, son histoire est bien plus compliquée qu'on ne le Panse."
