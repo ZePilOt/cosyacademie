@@ -226,7 +226,7 @@ label club_comedie:
     innerpov "Je peux pas faire partie de ce club c'est... nul."
     show Foulk PoseGauche Badboy
     show Dieuvomi Standard Sourire
-    dieuv "Eh ouais... En vérité, j'utilise l'humour pour tenter de faire comprendre aux gens que sous ces chaînes se cache un coeur qui bat."
+    dieuv "Eh ouais... En vérité, j'utilise l'humour pour tenter de faire comprendre aux gens que sous ces chaînes se cache un cœur qui bat."
     show Foulk PoseGauche Gene
     foulk "NONG dieuvomi, ne te livre pas comme ça puté !"
     show Foulk PoseGauche Badboy
@@ -298,7 +298,7 @@ label club_comedie:
     show Dieuvomi PoseDroite Triste
     dieuv "Gaffe à ce que tu dis. C'est sensible. Arf, je peux pas m'empêcher de toujours bien l'aimer, mais ça... il ne le sait pas."
     show Foulk PoseGauche Colere
-    foulk "Quel guindoule celui là aussi le Médoc hein ? On aurait pu être plus gros que Jimmy Fallon puté."
+    foulk "Quel guindoule celui-là aussi le Médoc hein ? On aurait pu être plus gros que Jimmy Fallon puté."
     show Foulk PoseGauche Gene
     foulk "Et pis aussi ils s'aimaient bieng avec la dieuve là. C'était bieng ce temps-là."
     show Foulk PoseGauche Sourire Yeuxfermes
@@ -306,7 +306,7 @@ label club_comedie:
 
     pov "Tu... l'aimes toujours ?"
     show Dieuvomi BrasCroises Triste
-    dieuv "Je sais pas, tu comprends. Quelque chose s'est brisé ce jour là."
+    dieuv "Je sais pas, tu comprends. Quelque chose s'est brisé ce jour-là."
     show Dieuvomi Standard Badboy
     dieuv "Jeudicouverte... tu te rends compte ? Une telle puissance comique entre de mauvaises mains ?"
     show Dieuvomi PoseSpeciale Badboy
