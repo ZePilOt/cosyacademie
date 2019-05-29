@@ -16,7 +16,7 @@ label intro:
     innerpov "C'est ma première journée à la Cosy Académie, un tournant dans ma vie."
     innerpov "Si je me plante je peux tout foutre en l'air..."
     innerpov "..."
-    pov "Aaaaargh mais qu'est ce que je fais ic- !!"
+    pov "Aaaaargh mais qu'est-ce que je fais ic- !!"
 
 
     show Moguri Standard Badboy
