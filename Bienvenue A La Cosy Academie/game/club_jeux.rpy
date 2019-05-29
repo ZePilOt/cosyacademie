@@ -241,7 +241,7 @@
 
     mic "ON S'EST FAIT LAMINER !"
 
-    pov "Je vous avait dit que je savais pas mentir !"
+    pov "Je vous avais dit que je savais pas mentir !"
 
     show Mickey PoseDroite Colere
 
