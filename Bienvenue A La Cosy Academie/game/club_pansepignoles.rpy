@@ -58,7 +58,7 @@ label club_pansepignoles:
     samael "Tu trouves ?"
 
     show Chuenpodo PoseSpeciale Colere zorder 101 at full_left, mediumzoom 
-    chuen "HEY ! CA SUFFIT OUI ? L'Académie a voté, et c'est Panthusiasts qui a gagné, c'est comme ça..."
+    chuen "HEY ! ÇA SUFFIT OUI ? L'Académie a voté, et c'est Panthusiasts qui a gagné, c'est comme ça..."
     innerpov "Il est bien moins commode qu'il n'en a l'air..."
 
     clornide "Tsk... de toute façon je suis convaincu que c'est Dieuvomi qui a truqué les votes..."
