@@ -42,7 +42,7 @@ label Meeting_Metalice:
     show Metalice PoseSpeciale Cligne
 
     met "Oh arrête, pas à moi hein ! Je suis là pour te donner TOUTES sortes de conseils."
-    innerpov "Très subtil ce clin d'oeil..."
+    innerpov "Très subtil ce clin d'œil..."
 
     show Metalice Standard Sourire
 
@@ -86,7 +86,7 @@ label Meeting_Metalice:
         show Metalice PoseSpeciale Cligne
 
         met "Ne t'en fais pas, je vois très bien ce que tu veux dire !"
-        innerpov "Encore ce clin d'oeil..."
+        innerpov "Encore ce clin d'œil..."
 
         show Metalice Standard Sourire
 
@@ -98,7 +98,7 @@ label Meeting_Metalice:
     elif pointsmoguri!=0:
         show Metalice PoseSpeciale Sourire Yeuxfermes
 
-        met "Moguri ? Doux et gentil ? Il est plus du genre à juger les gens d'habitude. Tu as du lui taper dans l'oeil !"
+        met "Moguri ? Doux et gentil ? Il est plus du genre à juger les gens d'habitude. Tu as dû lui taper dans l'œil !"
         show Metalice Standard Sourire
         pov "Quoi ? V-vraiment ?"
         show Metalice PoseSpeciale Cligne
@@ -112,7 +112,7 @@ label Meeting_Metalice:
         pov "Non ! Ce n'est pas ce que je voulais dire. Enfin..."
         show Metalice Standard Cligne
         met "Ne t'en fais pas, je vois très bien ce que tu veux dire !"
-        innerpov "Encore ce clin d'oeil..."
+        innerpov "Encore ce clin d'œil..."
         show Metalice Standard Sourire
         if sex=="m":
             met "Enfin bon ce ne sont pas les seuls étudiants de ce lycée, aucune raison de rester bloqué sur ces deux-là !"
