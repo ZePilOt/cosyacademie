@@ -210,7 +210,7 @@ label Premiercours:
             else:
                 met "Ahaha ! L'intervention de ton preux chevalier ne t'a pas laissée indifférente à ce que je vois."
 
-            pov "Ce n'est pas mon preux chevalier... Je voulais juste le remercier, c'est tout. C'était très sympathique ce qu'il a fait..."
+            pov "Ce n'est pas mon preux chevalier... Je voulais juste le remercier, c'est tout. C'était très sympathique ce qu'il a fait."
             show Metalice Standard Cligne
             met "Héroïque presque ?"
 
@@ -243,7 +243,7 @@ label Premiercours:
             pov "Oh, ça suffit hein !!"
             show Metalice Standard Sourire
             met "Allez, j'arrête de t'embêter ! On se revoit demain ?"
-            pov "Bien sûr ! A demain Metalice !"
+            pov "Bien sûr ! À demain Metalice !"
             jump Ichoosemedoc
 
     jump lendemainMatin
