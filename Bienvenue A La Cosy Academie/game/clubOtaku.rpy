@@ -72,7 +72,7 @@ label club_otaku:
     pov "Vous avez l'air motivées !"
     innerpov "... Et d'avoir vraiment beaucoup de temps à disposition..."
     show din PoseSpeciale Sourire Yeuxfermes Rougit
-    din "Et on laisse libre cours à notre passion en écrivant et dessinant nous-même nos fanfics !"
+    din "Et on laisse libre cours à notre passion en écrivant et dessinant nous-mêmes nos fanfics !"
     show Caro PoseSpeciale Gene
     $ word_effect("personnages")
     caro "Faut dire qu'on aime tellement de séries ! Tellement de {image=we1} !"
