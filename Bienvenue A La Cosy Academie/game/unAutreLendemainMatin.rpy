@@ -47,12 +47,12 @@ label unAutreLendemainMatin:
     pov "Les cheerleaders !"
     show Pansepignon Standard Sourire Yeuxfermes
     panse "Aaaaah ! Chuen a recruté des branques exprès... Il va bientôt obtenir son diplôme lui aussi, et ce club, c'est le symbole de notre relation !"   
-    panse "Du coup il voulait que le club meure à son départ de l'Académie, c'est pour ça qu'il leur fait faire n'importe quoi !"
+    panse "Du coup il voulait que le club meurt à son départ de l'Académie, c'est pour ça qu'il leur fait faire n'importe quoi !"
     pov "Chuenpodo était donc de mèche depuis le début !"
     show Pansepignon Standard Degoute
 
 
-    panse "Ahaha exactement ! Mais il commence à s'attacher  à ces trois rigolos... Je pense qu'il essaie de les former pour de bon en ce moment."
+    panse "Ahaha exactement ! Mais il commence à s'attacher à ces trois rigolos... Je pense qu'il essaie de les former pour de bon en ce moment."
     pov "Ok dernière question. Pourquoi ils étaient dans cet état-là, la dernière fois que je les ai croisés ?"
     show Pansepignon Standard Triste
     panse "C'est justement lié à la raison de ma venue ici. L'objet que je cherchais quand on s'est vus précédemment, c'est un CD, avec un pur son dessus..."
@@ -85,7 +85,7 @@ label unAutreLendemainMatin:
 
     pov "Wow... Donc toutes les histoires de l'école tournent autour de toi finalement ?"
     show Pansepignon BrasCroises Sourire Yeuxfermes Rougit
-    panse "Tu plaisantes j'espère ? Toute l'Académie gravite autour de  toi en ce moment ! Même moi je suis en train de discuter avec toi alors que je suis censé rester incognito..."
+    panse "Tu plaisantes j'espère ? Toute l'Académie gravite autour de toi en ce moment ! Même moi je suis en train de discuter avec toi alors que je suis censé rester incognito..."
 
     pov "Quoi ? Mais... "
     show Pansepignon BrasCroises Sourire Rougit
