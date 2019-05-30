@@ -37,7 +37,7 @@ label verdict:
     pov "C'était.... PHÉNOMENAL !"
 
     mog "Ahahah !"
-    med "Arrête tu vas nous faire rougir !"
+    med "Arrête ! Tu vas nous faire rougir !"
 
     pov "Non mais vraiment ! Vous avez vraiment une alchimie digne des plus grands !"
 
@@ -76,19 +76,19 @@ label verdict:
 
         show Medoc PoseGauche Sourire 
 
-        med "Nan parce que tu sais, il se fait tard et puis bon..."
+        med "Nan, parce que tu sais, il se fait tard et puis bon..."
 
         show Medoc PoseDroite Sourire Yeuxfermes
 
-        med "Moi après je veux bien te raccompagner, pour pas que tu tombes sur un type chelou..."
+        med "Moi, après, je veux bien te raccompagner, pour pas que tu tombes sur un type chelou..."
 
         show Medoc PoseGauche Sourire Yeuxfermes
 
-        med "Enfin, j'veux dire si tu veux parce que je veux pas te forcer à quoi que ce soit..."
+        med "Enfin, j'veux dire, si tu veux... parce que je veux pas te forcer à quoi que ce soit..."
 
         show Medoc PoseDroite Sourire Rougit
 
-        innerpov "Attends qu'est-ce qu'il se passe là ?"
+        innerpov "Attends ! Qu'est-ce qu'il se passe là ?"
         
         show Medoc PoseGauche Sourire Rougit
 
@@ -106,7 +106,7 @@ label verdict:
         show Medoc BrasCroises Sourire Rougit
 
         med "[povname] ! J'aimerais commencer si ça te dérange pas..."
-        pov "Euh non bien sûr vas-y."
+        pov "Euh... Non, bien sûr, vas-y."
         if sex=="m":
             med "Ça me fait vraiment plaisir que tu sois venu t'inscrire au Cosy Culture Club."
         else:
@@ -119,7 +119,7 @@ label verdict:
 
         show Medoc Standard Sourire Yeuxfermes Rougit
 
-        med "Ahaha, si tu crois que je ne t'ai pas vu tourner autour de Moguri !"
+        med "Ahaha, tu crois que je ne te vois pas tourner autour de Moguri ?!"
         med "J'vais tout faire pour t'aider à concrétiser ton p'tit crush, t'inquiète pas !"
 
         pov "Quoi ? Mais non !"
@@ -168,7 +168,7 @@ label verdict:
         if sex=="m":        
             med "C'est pour ça que quand je t'ai vu arriver, je t'ai un peu brusqué. Je ne voulais pas que tu aies à subir les choses que j'ai vécues."
         else:
-            med "C'est pour ça que quand je t'ai vu arriver, je t'ai un peu brusquée. Je ne voulais pas que tu aies à subir les choses que j'ai vécues."
+            med "C'est pour ça que quand je t'ai vue arriver, je t'ai un peu brusquée. Je ne voulais pas que tu aies à subir les choses que j'ai vécues."
         
         show Medoc PoseGauche Sourire Yeuxfermes Rougit
         med "Et tu as tellement évolué !"
@@ -208,7 +208,7 @@ label verdict:
 
         show Medoc PoseSpeciale Sourire Rougit
 
-        med "Cette fois, il commence à se faire vraiiiment tard... On devrait pas tarder à rentrer."
+        med "Cette fois, il commence à se faire vraiiiment tard... On devrait rentrer."
         pov "Ou alors, on pourrait passer la nuit ici !"
 
         show Medoc PoseSpeciale Sourire Yeuxfermes Rougit
@@ -251,7 +251,7 @@ label verdict:
 
         show Medoc PoseDroite Sourire Yeuxfermes
 
-        med "Et donc là, le mec me regarde et me dis 'Ah tiens ! V'là les mecs de la SDR !'"
+        med "Et donc là, le mec me regarde et me dit 'Ah tiens ! V'là les mecs de la SDR !'"
         med "Mais moi j'sais pas c'est quoi la SDR ! Mais j'vais pas lui dire tu vois !"
 
         innerpov "Il a l'air tellement plus heureux quand il s'ouvre aux gens..."
@@ -340,7 +340,7 @@ label verdict:
 
         mog "Oh ! Tu voulais juste demander l'autorisation d'utiliser les tireuses ! Bien sûr, allez, c'est ma tournée !"
         pov "Quoi ? N-..."
-        innerpov "Remarque... Un peu d'alcool ne fera de mal à ma timidité..."
+        innerpov "Remarque... Un peu d'alcool ne fera pas de mal à ma timidité..."
         pov "Pourquoi pas finalement !"
         mog "Allez hop ! À la tienne !"
 
@@ -426,7 +426,7 @@ label verdict:
         show Moguri BrasCroises Gene
         mog "..."
         show Moguri Standard Sourire Rougit
-        mog "L'important, c'est que je l'aie déjà fait ! Tout ira bien cette fois !"
+        mog "L'important, c'est que je l'ai déjà fait ! Tout ira bien cette fois !"
         mog "Allez, assez discuté rentrons !"
         pov "Moi tout ce que j'ai retenu, c'est que tu veux me déclarer ton amour de façon dangereusement grandiose..."
         show Moguri Standard Gene
@@ -566,7 +566,7 @@ label verdict:
         pov "Quoi ?"
 
         show Metalice BrasCroises Sourire
-        met "Je pensais que tu en viendrais à une conclusion un peu moins clichée, mais qui suis-je pour juger."
+        met "Je pensais que tu en viendrais à une conclusion un peu moins clichée, mais qui suis-je pour juger?"
         pov "Pas Moguri, dans un premier temps..."
         show Metalice Standard Sourire Yeuxfermes
         met "Ahahahah !"
