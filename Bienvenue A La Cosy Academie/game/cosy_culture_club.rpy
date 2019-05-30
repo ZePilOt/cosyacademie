@@ -25,9 +25,12 @@ label cosy_culture_club:
     pov "Heuuu..."
     show Moguri PoseGauche Sourire
     show Medoc PoseDroite Sourire
-    mog "On sait que tu avais peur de venir, c'est pour ça qu'on t'a laissé essayer les autres clubs."
+    if sex=="m":
+        mog "On sait que tu avais peur de venir, c'est pour ça qu'on t'a laissé essayer les autres clubs."
+    else:
+        mog "On sait que tu avais peur de venir, c'est pour ça qu'on t'a laissée essayer les autres clubs."
     med "Bah oui, ils sont gentils mais bon..."
-    mog "C'est pas les couteaux les plus affutés du tiroir..."
+    mog "C'est pas les couteaux les plus affûtés du tiroir..."
     pov "C'est un peu méchant non ?"
     
     show Moguri PoseGauche Gene
@@ -68,7 +71,7 @@ label cosy_culture_club:
     mog "J'ai rien demandé, j'ai juste dit que j'aimais les portes ! Regarde ce qui se passe comme bordel dans l'académie maintenant !" 
     show Medoc PoseDroite Badboy
     med "Le club tech, c'était pour lui faire plaisir. Puis il est seul dedans..."
-    mog "Il est seul et j'aime pas ça. La dernière fois que j'ai utilisé mon portable, il m'a demandé de plus l'utiliser aux toilettes, il trouvait ça dégueulasse !"
+    mog "Il est seul et j'aime pas ça. La dernière fois que j'ai utilisé mon portable, il m'a demandé de plus le faire aux toilettes, il trouvait ça dégueulasse !"
     med "Ouais c'est vrai que ... J'pense qu'il m'a hackou avec ses trucs..."
     mog "T'imagines, il a sûrement des photos privates !"
     innerpov "Intéressant..."
@@ -76,7 +79,7 @@ label cosy_culture_club:
     mog "Et quitte à faire plaisir à quelqu'un, tu devrais retourner au club de comédie, tu as vu ce qu'ils font ? Ça rime à rien et c'est gênant !"
     show Medoc PoseDroite Triste
     med "Ouais c'est un peu triste, mais tu sais avec les histoires je peux pas..."
-    mog "C'est du passé ! Et puis Mr Tshirt est heureux au SNL..."
+    mog "C'est du passé ! Et puis M. Tshirt est heureux au SNL..."
     show Medoc PoseDroite Gene
     med "Je parle pas de ça... Mais je veux pas en parler devant des gens."
 
@@ -109,7 +112,7 @@ label cosy_culture_club:
 
         "Heuuuu oui ça ne me regarde pas !":
             show Medoc PoseDroite Sourire Yeuxfermes Rougit
-            med "De toutes façons on doit tous passer à autre chose."
+            med "De toute façon on doit tous passer à autre chose."
             python:
                 pointsmedoc+=1
             
@@ -155,7 +158,7 @@ label cosy_culture_club:
     show Medoc PoseDroite Degoute
     med "Même si bon, j'ai l'impression qu'il y a des gars qui écoutent à la porte !"
     show Moguri PoseGauche Degoute
-    mog "Non mais c'est sûr, on arrête pas de me parler de recettes de bulot ces derniers temps..."
+    mog "Non mais c'est sûr, on arrête pas de me parler de recettes de bulots ces derniers temps..."
 
     pov "Je vais vous laisser alors..."
 
@@ -184,7 +187,7 @@ label cosy_culture_club:
     show Medoc BrasCroises Degoute
     med "Comme si on avait besoin d'une excuse pour faire la fête..."
     show Medoc PoseDroite Sourire
-    mog "Ouais enfin bon soit, on doit rendre des comptes, donc on doit enregistrer !"
+    mog "Ouais enfin bon, soit, on doit rendre des comptes, donc on doit enregistrer !"
 
     innerpov "Faire une \"tape\" avec Medoc et Moguri.. Ouah !"
 
@@ -209,7 +212,7 @@ label cosy_culture_club:
             med "Haha t'es un chef [povname] !"
         "Le gin te nique !":
             med "Mais oui pourquoi pas ! T'es un chef !"
-        "Biere hockey !":
+        "Bière hockey !":
             med "Haha ! T'es le chef !"
 
     window hide
