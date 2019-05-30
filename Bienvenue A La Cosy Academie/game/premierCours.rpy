@@ -164,7 +164,7 @@ label Premiercours:
     met "Dieuvomi ? C'est pas VRAIMENT un voyou, c'est juste un style qu'il se donne."
     show Metalice Standard Sourire
     met "Il ne te fera jamais de mal, à moins que tu sois une apocope de bandage pneumatique."
-    pov "Un quoi ?"
+    pov "Une quoi ?"
     show Metalice Standard Degoute
     met "Un pneu. Il a un souci avec ça je crois, il aime beaucoup les crever."
     show Metalice Standard Sourire
