@@ -27,7 +27,7 @@ label cours_physique:
     pov "Nan, mais en vrai ?"
     show Pansepignon PoseSpeciale Triste
     panse "En vrai ? J'ai perdu un truc dans l'école, j'aimerais bien le retrouver..."
-    pov "Ah c'est tout ? Je peux peut-être t'aider du coup, tu cherches quel genre de truc ?"
+    pov "Ah ! C'est tout ? Je peux peut-être t'aider du coup, tu cherches quel genre de truc ?"
     show Pansepignon PoseSpeciale Gene
     panse "Mon... Innocence..."
     pov "..."
@@ -56,7 +56,7 @@ label cours_physique:
 
     show Foulk Standard Colere
 
-    foulk "Normalement il faut attendre 15 min !"
+    foulk "Normalement il faut attendre 15 minutes !"
     foulk "Et de toute façon, c'est le prof qui a les clés, on est coincés ici..."    
 
     show Dieuvomi BrasCroises Badboy
@@ -86,7 +86,7 @@ label cours_physique:
     show Esprism:
      xpos 0.1 xanchor 0.0 ypos .8 yanchor 1.0
     with flash   
-    esprism "Mais oui Je suis là !" with hpunch
+    esprism "Mais oui je suis là !" with hpunch
     esprism "Asseyez-vous !"
 
     stop music fadeout 1.0
@@ -99,7 +99,7 @@ label cours_physique:
     show Medoc PoseDroite Sourire at right
     show Moguri PoseDroite Sourire behind Esprism
 
-    esprism "Je vois Medoc et Moguri qui font les pitres là derrière..."
+    esprism "Je vois Medoc et Moguri qui font les pitres là-derrière..."
     hide Medoc
     hide Moguri
     esprism "Dieuvomi et Foulk ?"
@@ -129,7 +129,7 @@ label cours_physique:
             name_mathilde = "Mathilde"
         show Mathilde PoseDroite Sourire at right
         mat "Présente !"
-        esprism "Ha Mathilde, je ne pourrai pas venir à ton club ce soir..."
+        esprism "Ha ! Mathilde, je ne pourrai pas venir à ton club ce soir..."
         show Mathilde PoseDroite Triste at right
         esprism "Même si c'est facile, je n'ai pas terminé ma nouvelle théorie des jeux..."
         innerpov "Un club de jeux ? Il faudra que j'aille faire un tour là-bas si je ne trouve rien d'autre !"
