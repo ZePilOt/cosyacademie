@@ -50,9 +50,9 @@ label lendemainMatin:
     pov "Wow, il était carrément bizarre ce type..."
 
     if sex=="m":
-       innerpov "Bref... il faut que j'aille voir les cheerleaders ce matin. Mieux vaut attendre Chuenpodo, je ne suis pas encore très familier des locaux de l'école, j'ai pas envie de me perdre..."
+       innerpov "Bref... il faut que j'aille voir les cheerleaders ce matin. Mieux vaut attendre Chuenpodo, je ne suis pas encore habitué aux locaux de l'école, j'ai pas envie de me perdre..."
     else:
-       innerpov "Bref... il faut que j'aille voir les cheerleaders ce matin. Mieux vaut attendre Chuenpodo, je ne suis pas encore très familière des locaux de l'école, j'ai pas envie de me perdre..."
+       innerpov "Bref... il faut que j'aille voir les cheerleaders ce matin. Mieux vaut attendre Chuenpodo, je ne suis pas encore habituée aux locaux de l'école, j'ai pas envie de me perdre..."
 
     innerpov "Ah le voilà !"
 
