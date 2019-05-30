@@ -14,7 +14,7 @@
 
     scene school hallway night with fade    
 
-    innerpov "Allez, jeux de société maintenant ! J'espère que les membres seront normaux cette fois parce qu'il faut vraiment que je trouve un club à la fin de la semaine…"
+    innerpov "Allez, jeux de société maintenant ! J'espère que les membres seront normaux cette fois parce qu'il faut vraiment que je trouve un club à la fin de la semaine..."
 
     innerpov "Ah je crois que c'est ici."
 
@@ -26,9 +26,9 @@
 
     pov "Hello ? Y a quelqu'un ? Personne ?"
 
-    pov "Bon et bien… demi-tour alors…"
+    pov "Bon et bien... demi-tour alors..."
 
-    noName "BIENVENUE, MORTEL, DANS L'ANTRE DE… Hmm… FLÛTE J'AI OUBLIÉ !!!"
+    noName "BIENVENUE, MORTEL, DANS L'ANTRE DE... Hmm... FLÛTE J'AI OUBLIÉ !!!"
 
     show Mathilde BrasCroises Colere with dissolve
     if mathilde_medoc == True:
@@ -88,7 +88,7 @@
 
     show Mathilde Standard Sourire 
 
-    mat "Mmmm ok… Je vais chercher Médoc alors !"
+    mat "Mmmm ok... Je vais chercher Médoc alors !"
 
 
     hide Mathilde with longfade
@@ -105,25 +105,25 @@
 
     med "[povname] ?"
 
-    pov "Ah tiens salut Medoc ! Dis Mathilde, j'ai regardé les règles de ton jeu là, c'est pas hyper clair quand même…"
+    pov "Ah tiens salut Medoc ! Dis Mathilde, j'ai regardé les règles de ton jeu là, c'est pas hyper clair quand même..."
 
     show Mathilde PoseGauche Sourire Yeuxfermes
 
-    mat "Mais si c'est simple ! Tu commences avec 3 cartes de ce paquet, et trois de celui-ci, tu commences en lançant ce dé et…"
+    mat "Mais si c'est simple ! Tu commences avec 3 cartes de ce paquet, et trois de celui-ci, tu commences en lançant ce dé et..."
 
     show Medoc PoseDroite Sourire Yeuxfermes
 
     med "PUH ! On n'a qu'à faire un tour et on verra !"
 
     if sex=="m":
-        pov "Je suis pas sûr que…"
+        pov "Je suis pas sûr que..."
     else:
-        pov "Je suis pas sûre que…"
+        pov "Je suis pas sûre que..."
     
 
     show Mathilde PoseGauche Sourire
 
-    mat "Allez commençons ! Alors on est trois donc je pense qu'il faut utiliser le mode de jeu 'Thalès'…"
+    mat "Allez commençons ! Alors on est trois donc je pense qu'il faut utiliser le mode de jeu 'Thalès'..."
 
     pov "Comme le truc du triangle là ?"
 
@@ -143,16 +143,16 @@
     hide Mathilde
     show Mickey BrasCroises Sourire Yeuxfermes with dissolve
 
-    mic "Dites, vous en faites du bruit ici… Tu as réussi à recruter Mathilde ?"
+    mic "Dites, vous en faites du bruit ici... Tu as réussi à recruter Mathilde ?"
 
     show Mickey BrasCroises Sourire Yeuxfermes at left
     show Mathilde PoseDroite Sourire at right
 
-    mat "Oh, m'sieur Max ! Non pas encore, mais c'est en cours on va dire… Vous voulez vous joindre à nous, on fera du 2v2 comme ça !"
+    mat "Oh, m'sieur Max ! Non pas encore, mais c'est en cours on va dire... Vous voulez vous joindre à nous ? On fera du 2v2 comme ça !"
 
     show Mickey PoseGauche Sourire
 
-    mic "Allez, pourquoi pas !"
+    mic "Allez, pourquoi pas ?!"
 
     hide Mathilde
 
@@ -162,7 +162,7 @@
 
     show Mickey BrasCroises Sourire Yeuxfermes
 
-    mic "Wow… Bon et bien allons-y [povname] !"
+    mic "Wow... Bon et bien allons-y [povname] !"
 
     hide Mickey
     hide Medoc
@@ -170,7 +170,7 @@
 
     show Mickey BrasCroises Triste
 
-    mic "[povname]…"
+    mic "[povname]..."
 
     show Mickey BrasCroises Colere
     
@@ -186,13 +186,13 @@
     show Medoc PoseGauche Sourire Yeuxfermes at left
     show Mathilde PoseDroite Sourire Yeuxfermes at right
 
-    med "Hinhinhin…"
+    med "Hinhinhin..."
 
-    mat "Huhuhu…"
+    mat "Huhuhu..."
 
-    pov "En même temps, à chaque fois que je pense comprendre les règles, je reprends un coup de Trafalgar… Comme s'ils…"
+    pov "En même temps, à chaque fois que je pense comprendre les règles, je reprends un coup de Trafalgar... Comme s'ils..."
 
-    pov "M'sieur Max... Je crois qu'ils trichent…"
+    pov "M'sieur Max... Je crois qu'ils trichent..."
 
     hide Medoc
     hide Mathilde
@@ -206,7 +206,7 @@
 
     show Mickey BrasCroises Triste
 
-    mic "Malheureusement je crois que vu l'écart des scores, il va falloir qu'on se mette à tricher aussi…"
+    mic "Malheureusement je crois que vu l'écart des scores, il va falloir qu'on se mette à tricher aussi..."
 
     if sex=="m":
         pov "Quoi ? Mais je suis le pire menteur que je connaisse ! On va jamais y arriver !"
@@ -215,16 +215,16 @@
 
     show Mickey BrasCroises Sourire Yeuxfermes
 
-    mic "Il va falloir faire de vot' mieux soldat.…"
+    mic "Il va falloir faire de vot' mieux soldat !"
 
     hide Mickey
 
     show Medoc PoseGauche Sourire Yeuxfermes at left
     show Mathilde PoseDroite Sourire Yeuxfermes at right
 
-    med "Hinhinhin…"
+    med "Hinhinhin..."
 
-    mat "Huhuhu…"
+    mat "Huhuhu..."
 
 
     hide Medoc
@@ -233,11 +233,11 @@
 
     show Mickey BrasCroises Triste
 
-    mic "Argh…"
+    mic "Argh..."
 
     pov "Ooof..."
 
-    mic "[povname]…."
+    mic "[povname]..."
 
     mic "ON S'EST FAIT LAMINER !"
 
@@ -253,12 +253,12 @@
 
     show Mathilde BrasCroises Sourire Yeuxfermes
 
-    mat "Bon… Assez chouiné… Passons au gage !"
+    mat "Bon... Assez chouiné... Passons au gage !"
 
     hide Mathilde
     show Medoc PoseGauche Sourire
 
-    med "Oula… Je veux pas être là pour voir ça, bon courage, bye !"
+    med "Oula... Je veux pas être là pour voir ça, bon courage, bye !"
 
     hide Medoc with dissolve
 
@@ -266,13 +266,13 @@
 
     show Mickey Standard Triste at left
 
-    mic "Il est parti... Rien ne pourra nous sauver…."
+    mic "Il est parti... Rien ne pourra nous sauver..."
 
     pov "Mais j'étais pas au courant moi ! C'est quoi ce club de l'entourloupe !"
 
     show Mathilde PoseSpeciale Sourire Yeuxfermes Rougit at right
 
-    mat "Huhuhu… Comme tu n'étais pas au courant, je te donnerai un truc simple… Mais vous m'sieur Max, c'est tarif !"
+    mat "Huhuhu... Comme tu n'étais pas au courant, je te donnerai un truc simple... Mais vous m'sieur Max, c'est tarif !"
 
     mat "J'veux vous voir à l'entraînement des cheerleaders la semaine prochaine ! Et en costume je vous prie !"
 
@@ -284,27 +284,27 @@
 
     show Mickey BrasCroises Badboy
 
-    mic "Ça fait partie des règles, je joue en connaissance de cause…"
+    mic "Ça fait partie des règles, je joue en connaissance de cause..."
 
-    pov "Mais… Pourquoi ?"
+    pov "Mais... Pourquoi ?"
 
     show Mickey BrasCroises Sourire
 
-    mic "Parce c'est réciproque… Si on gagne, on peut aussi faire la même chose. Lui demander ce qu'on veut. Et tu sais, toute l'école rêve de les voir, même moi ! Je pourrais prendre des photos et les partager à tous !"
+    mic "Parce c'est réciproque... Si on gagne, on peut aussi faire la même chose : lui demander ce qu'on veut. Et tu sais, toute l'école rêve de les voir, même moi ! Je pourrais prendre des photos et les partager à tous !"
 
-    pov "M'sieur Max… C'est…"
+    pov "M'sieur Max... C'est..."
 
     show Mickey BrasCroises Gene
 
-    mic "Oui… Je sais.…"
+    mic "Oui... Je sais..."
 
     pov "C'EST DÉGOÛTANT, VOUS ÊTES UN PERVERS !" with hpunch
 
     show Mickey BrasCroises Colere Rougit
 
-    mic "Hein ? Quoi ? Mais non ! Je parle des cartes des pickup lines ! Von Yaourt me paie grassement pour participer à ces jeux et les récupérer à son profit…"
+    mic "Hein ? Quoi ? Mais non ! Je parle des cartes des pickup lines ! Von Yaourt me paie grassement pour participer à ces jeux et les récupérer à son profit..."
 
-    pov "Ah… J'ai eu peur… Mais vous avez tant besoin d'argent ?"
+    pov "Ah... J'ai eu peur... Mais vous avez tant besoin d'argent ?"
 
     show Mickey BrasCroises Sourire Yeuxfermes Rougit
 
@@ -312,7 +312,7 @@
 
     show Mathilde PoseSpeciale Rire Ojosama
 
-    mat "Assez blablaté, oust M'sieur Max ! J'vous revois la semaine prochaine, et n'oubliez pas vos pompons ! Huhuhu…"
+    mat "Assez blablaté, oust M'sieur Max ! J'vous revois la semaine prochaine, et n'oubliez pas vos pompons ! Huhuhu..."
 
     show Mickey PoseGauche Sourire
 
@@ -324,11 +324,11 @@
 
     mat "Bien ! Pour commencer doucement alors... Je te propose même un choix de gage !"
 
-    pov "Gloups…"
+    pov "Gloups..."
 
-    mat "Alors…"
+    mat "Alors..."
 
-    mat "Tu préfères…"
+    mat "Tu préfères..."
 
     show Mathilde BrasCroises Sourire Yeuxfermes
 
@@ -336,11 +336,11 @@
 
     innerpov "Quoi c'est tout ?"
 
-    pov "Et bien euh… Vérité ?"
+    pov "Et bien euh... Vérité ?"
 
     show Mathilde Standard Sourire
 
-    mat "Je suppose que tu as eu le temps de te décider depuis ta rentrée du coup…"
+    mat "Je suppose que tu as eu le temps de te décider depuis ta rentrée du coup..."
 
     menu:
             
@@ -364,7 +364,7 @@
             show Mathilde BrasCroises Sourire Yeuxfermes
             mat "Et bien je suppose que je te verrai en cheerleaders avec m'sieur Max alors !"
 
-    pov "Argh…"
+    pov "Argh..."
 
     show Mathilde Standard Sourire
 
@@ -374,11 +374,11 @@
 
     mat "Comme rejoindre mon club par exemple !"
 
-    pov "Dit-elle après m'avoir fait chanter ! Il faudrait vraiment que ce Von Yaourt me paie très cher pour me faire intégrer ce club…"
+    pov "Dit-elle après m'avoir fait chanter ! Il faudrait vraiment que ce Von Yaourt me paie très cher pour me faire intégrer ce club..."
 
     show Mathilde PoseGauche Triste
 
-    mat "Arf… Je m'en doutais bien ! Mais bon, si jamais tu veux te faire une petite partie juste comme ça, n'hésite pas à passer !  La porte sera toujours ouverte !"
+    mat "Arf... Je m'en doutais bien ! Mais bon, si jamais tu veux te faire une petite partie juste comme ça, n'hésite pas à passer !  La porte sera toujours ouverte !"
 
     pov "J'hésiterai un peu quand même... Bonne soirée Mathilde !"
 
